@@ -1,11 +1,11 @@
 # MY TAKEAWAYS
 
-- This project is part of the HTML pre-course homework for the CodeSquad Full-Stack Bootcamp. The objective was to create a comics website using solely HTML. 
+- This project is part of the pre-course homework for the CodeSquad Full-Stack Bootcamp. The objective was to create a comics web application using solely HTML. 
 - I gained a better understanding of how to create a navigation bar. I didn't realize it was not good practice to wrap an a tag around the list item tag, but instead preferred to have the list item wrapped around the a tag instead.
 - I learned how to disable features using the "disabled" attributes, and how to select in a drop down menu using the "selected" attribute. 
 - Inputting values, especially to pre-fill fields is still a little confusing but it makes more sense than before. 
 - I learned about sections and articles and have tried to make my project accessible using semantic HTML and hopefully easy to read.
-- The instructions on how to build this comic store website is listed below.
+- The instructions on how to build this comics app is listed below.
   
 -----
 
